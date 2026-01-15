@@ -83,3 +83,17 @@ GitHub – Version control and project sharing
 - Key findings
 
 - Business impact
+
+## Dashboard
+
+The Power BI dashboard provides:
+
+- Interactive data exploration
+
+- Real-time KPI visualization
+
+- Trend and performance tracking
+
+- Business-friendly insights
+
+<img width="1271" height="712" alt="Screenshot 2026-01-15 005626" src="https://github.com/user-attachments/assets/e53d6e41-1589-4ed0-961a-a3828b3b9d22" />
